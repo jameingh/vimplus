@@ -72,7 +72,9 @@ An automatic configuration program for vim
 
 #### 安装vimplus
 
-    git clone https://github.com/chxuan/vimplus.git ~/.vimplus
+使用非root用户安装
+
+    git clone git@github.com:jameingh/vimplus.git ~/.vimplus
     cd ~/.vimplus
     ./install.sh //不加sudo
     
